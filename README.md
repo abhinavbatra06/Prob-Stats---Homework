@@ -20,3 +20,4 @@ ral choice of which variable to assign to the x-axis.) Calculate the minimum and
  January.
  (f) Explain your findings in the previous part. What do you notice? Hypothesize some
  explanations
+# Prob-Stats---Homework
