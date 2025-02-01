@@ -7,7 +7,7 @@ Question : 1 (Three random variables) If a random variable ˜ w is positively co
  correlation matrix of your data
 
 
-Question : 5  : (Temperature) The table in tempature.csv includes the average temperatures of each
+Question : 5  (Temperature) The table in tempature.csv includes the average temperatures of each
  month at different locations (longitude and latitude).
  (a) Create a scatterplot of latitude and longitude of the 2000 locations (using a natu
 ral choice of which variable to assign to the x-axis.) Calculate the minimum and
