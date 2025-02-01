@@ -1,6 +1,15 @@
-Question : 
+Question : 1 
 
-5. (Temperature) The table in tempature.csv includes the average temperatures of each
+1. (Three random variables) If a random variable ˜ w is positively correlated with another
+ random variable ˜ y, and ˜ y is positively correlated with a third random variable ˜ z, can ˜ w
+ and ˜ z be negatively correlated? If no, prove it. If yes,
+ (a) provide an example of three such random variables;
+ (b) provide a small sample of data with three variables such that the three sample
+ correlations have this property. Compute and provide the data and the sample
+ correlation matrix of your data
+
+
+Question : 5  : (Temperature) The table in tempature.csv includes the average temperatures of each
  month at different locations (longitude and latitude).
  (a) Create a scatterplot of latitude and longitude of the 2000 locations (using a natu
 ral choice of which variable to assign to the x-axis.) Calculate the minimum and
@@ -20,4 +29,4 @@ ral choice of which variable to assign to the x-axis.) Calculate the minimum and
  January.
  (f) Explain your findings in the previous part. What do you notice? Hypothesize some
  explanations
-# Prob-Stats---Homework
+
