@@ -1,6 +1,4 @@
-Question : 1 
-
-1. (Three random variables) If a random variable ˜ w is positively correlated with another
+Question : 1 (Three random variables) If a random variable ˜ w is positively correlated with another
  random variable ˜ y, and ˜ y is positively correlated with a third random variable ˜ z, can ˜ w
  and ˜ z be negatively correlated? If no, prove it. If yes,
  (a) provide an example of three such random variables;
