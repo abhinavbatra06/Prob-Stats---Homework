@@ -3,8 +3,8 @@
 ## Question 1: Three Random Variables
 
 **Problem Statement**:  
-If a random variable \( \tilde{w} \) is positively correlated with another random variable \( \tilde{y} \), and \( \tilde{y} \) is positively correlated with a third random variable \( \tilde{z} \), can \( \tilde{w} \) and \( \tilde{z} \) be negatively correlated? If no, prove it. If yes:  
-(a) Provide an example of three such random variables.  
+If a random variable w is positively correlated with another random variable y, and y is positively correlated with a third random variable z, can w and z be negatively correlated? If no, prove it. If yes:
+(a) Provide an example of three such random variables.
 (b) Provide a small sample of data with three variables such that the three sample correlations have this property. Compute and provide the data and the sample correlation matrix of your data.
 
 ---
